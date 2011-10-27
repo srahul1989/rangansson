@@ -1,0 +1,7 @@
+====
+TODO
+====
+
+1. Web UI to manage the family tree
+2. Profile pages for each relation
+3. User specific viewing privileges for sensitive information

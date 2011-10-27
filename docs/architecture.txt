@@ -1,0 +1,10 @@
+rangansson - A genealogy package
+
+1. An importer to read XML data and import it into a temporary space
+	1.1 Read each entry in the XML file
+	1.2 Link each entry to it's relatives
+	1.3 Prune the tree looking for unlinked nodes and impossible relations (more on this later)
+
+	Impossible relations
+	Two sets of biological parents (father and mother are treated seperately)
+

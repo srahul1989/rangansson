@@ -1,0 +1,116 @@
+=====
+NOTES
+=====
+
+1. blue to red scale to represent relation names( blue - blood relation, red -
+inlaws; cousing marrying would require a colour between red and blue)
+2. date of birth and death displayed on the family tree
+3. profile pages for each relation
+4. no nationality (state, city of birth, etc). perhaps include this in profile
+page
+5. redraw tree based on who's viewing it
+6. use levels. 0th level includes cousins, brothers/sisters. -Ith level
+includes nieces/nephews, kids. +Ith has parents, uncles/aunts
+7. default view has +II to -II (grandparents to grandkids)
+8. have different tree viewing profiles - ancestry (to view upwards starting
+from you), bloodline of a relative(to view kids/grandkids and so on of a
+certain person)
+9. different types of linking lines for married/divorced/etc
+10. ON HANDLING SENSITIVE DATA
+	10.1 only unlock after death of the person (or death of
+	spouse/immediate family too)
+	10.2 only visible to certain people/levels/of a certain age
+	10.3 who adds the data, who verifies accuracy of subjective data?
+
+11. report generation - printable, archivable, presentable
+12. support for photos,facebook like tagging
+13. based on (12) select photos only, say 1 or 2 per event or age bracket
+of the person to prevent flooding (who decides which photos?)
+14. scans of important documents for posterity and data accuracy
+15. biological/adopted family trees, multiple trees for divorces/remarriages
+16. divorces and remarriages would obviously only alter half the tree
+17. A complete tree means sirnames/maiden names are unnecessary in most cases,
+but not all.
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+32. 
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
+61. 
+62. 
+63. 
+64. 
+65. 
+66. 
+67. 
+68. 
+69. 
+70. 
+71. 
+72. 
+73. 
+74. 
+75. 
+76. 
+77. 
+78. 
+79. 
+80. 
+81. 
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. 
+89. 
+90. 
+91. 
+92. 
+93. 
+94. 
+95. 
+96. 
+97. 
+98. 
+99. 
+100. 
