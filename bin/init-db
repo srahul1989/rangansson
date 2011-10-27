@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+"""
+This script initializes the PostgreSQL database on your system for use by the
+Rangansson scripts
+"""
+
+raise NotImplementedError

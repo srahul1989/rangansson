@@ -1,3 +1,10 @@
 #!/usr/bin/env python
 
+"""
+This script "should" be your only point of interaction with the rangansson
+package if you aren't hacking the package. If it is unable to find the
+database specified in the config file you might need to run the init_db
+script, but that should be about it.
+"""
+
 raise NotImplementedError
