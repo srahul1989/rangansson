@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#TODO Remove this file before deployment
+
 # A minimal SQLite shell for experiments
 
 import sqlite3

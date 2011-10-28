@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#TODO Remove this file before deployment
+
 #
 # A test script to practice SQLite statements
 #
