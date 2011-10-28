@@ -1,12 +1,15 @@
-from xml.etree.ElementTree import parse
+from xml.etree import ElementTree as ET
 
 class XMLTreeNotPrunedError(BaseException):
     def __init__(self, message=None):
         BaseException.__init__(self, message)
 
+class ContinueHereError(BaseException):
+    def __init__(self, message=None):
+        BaseException.__init__(self, message)
+
 
 class XMLMonster(object):
-
 
     def __init__(self):
         self.filename = None
@@ -19,7 +22,9 @@ class XMLMonster(object):
         Reads the initial XML file
         """
         self.filename = filename
-        self.tree = parse(self.filename)
+        self.tree = ET.parse(self.filename)
+        root = self.tree.getroot()
+        raise ContinueHereError
         self._pruned = False
 
     def write(self):
