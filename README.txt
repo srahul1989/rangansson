@@ -15,3 +15,8 @@ The Norse place a -sson (son of) or -dottir (daughter of) at the end of the
 fathers name to create the last name. So if Odin had a son named Thor and a
 daughter named Freya, they would be named Thor Odinsson and Freya Odindottir
 respectively.
+
+============
+Developed By
+============
+Harshavardhan Rangan - hvardhan {dot} r {at} google's email {dot} commercial TLD - hrangan.net
